@@ -1,4 +1,4 @@
-# Music Industry Revolution: Four Projects
+﻿# Music Industry Revolution: Four Projects
 
 This repository collects design and engineering materials for four products that explore new pathways for artists, performers, and audiences in music.
 
@@ -121,3 +121,11 @@ For general inquiries or to discuss supporting multiple projects:
 - **GitHub**: Open issues or discussions in this repository
 
 © 2025-07-24 by Slavko Stojnić (in Stockholm, Sweden). All Rights Reserved.
+## Support This Work
+
+If this project is useful to you, consider supporting ongoing independent development.
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20this%20work-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/earthcraft)
+
+Direct link: https://ko-fi.com/earthcraft
+
