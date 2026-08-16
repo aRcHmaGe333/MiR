@@ -2,20 +2,13 @@
 
 ## Context
 
-The four music industry projects—**Studio Pass**, **Dimensional Radio**, **The Scouting Label**, and **Fusion Factory**—each solve a distinct problem and generate their own value and revenue. None require the others to function.
+The four music industry projects—**Studio Pass**, **Dimensional Radio**, **The Scouting Label**, and **Fusion Factory**—address different parts of music creation, development, performance, discovery, and audience participation.
 
 > Naming note: the public-facing name in current exposure materials is **Dimensional Knob** (formerly Dimensional Radio). This document preserves historical naming in scenario text where relevant.
 
-**This document explores OPTIONAL integration opportunities**—ways these projects can enhance each other when they coexist, but these integrations are **opportunities, not requirements**.
+This document explores the ways they can reinforce one another when they coexist.
 
-## How Each Project Stands On Its Own
-
-- **Studio Pass**: Works as a standalone fan subscription platform
-- **Dimensional Radio**: Functions as a complete performance tool
-- **The Scouting Label**: Operates as a complete A&R and artist development company
-- **Fusion Factory**: Runs as a self-sufficient creative venue
-
-## When They Coexist
+## Combined Value
 
 When these projects share an ecosystem, natural synergies emerge that can:
 - Increase value for users across platforms
@@ -23,8 +16,6 @@ When these projects share an ecosystem, natural synergies emerge that can:
 - Enable new workflows that weren't possible before
 - Generate additional revenue streams
 - Amplify the impact of each individual project
-
-**But**: Each project can succeed without the others.
 
 ## Optional Integration Scenarios
 
@@ -292,7 +283,7 @@ When these projects share an ecosystem, natural synergies emerge that can:
 #### Identity Management
 - Single sign-on (SSO) options
 - Federated identity
-- Independent account management
+- Account management
 - Optional account linking
 
 ### Business Considerations
@@ -319,7 +310,7 @@ When these projects share an ecosystem, natural synergies emerge that can:
 
 ### Phase 1: Initial Launch
 - Launch each project
-- Validate standalone value propositions
+- Validate value propositions
 - Build user bases
 - Establish individual brand identities
 
@@ -375,19 +366,19 @@ When these projects share an ecosystem, natural synergies emerge that can:
 
 ## Conclusion
 
-Studio Pass, Dimensional Radio, The Scouting Label, and Fusion Factory each solve distinct problems and can succeed on their own—and they CAN optionally enhance each other when they coexist.
+Studio Pass, Dimensional Radio, The Scouting Label, and Fusion Factory can form a connected path from creation and development through performance, discovery, and audience participation.
 
 **Key Takeaways**:
 
-1. **Each project stands alone**: No project requires the others to deliver value
-2. **Integration is optional**: Users choose what to connect
-3. **Value is additive**: Integration creates new possibilities without diminishing standalone value
-4. **Synergies are natural**: When coexisting, connections emerge organically
+1. **Connections are practical**: Each link supports a concrete creative or business workflow
+2. **Participation remains selective**: Users choose which connections serve their work
+3. **Value is additive**: Combining projects creates possibilities unavailable to any one of them
+4. **Synergies are natural**: Connections emerge from shared artists, material, tools, venues, and audiences
 
-The power of these projects lies not in forced integration, but in their ability to work together when beneficial.
+The combined value lies in turning separate stages of music creation and circulation into a connected, mutually reinforcing system.
 
 ---
 
 © 2025 Slavko Stojnić. All Rights Reserved.
 
-This document describes optional integration opportunities between projects. No integration is required for any project to deliver complete value.
+This document describes integration opportunities between the projects.
