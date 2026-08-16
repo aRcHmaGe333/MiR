@@ -4,7 +4,7 @@
 
 Fusion Factory is a physical venue concept that creates a permanent space for real-time musical collaboration, live performance, and audience participation. It solves the isolation problem plaguing musicians who create alone with mountains of unreleased material, providing a self-sustaining cultural hub where artists from different genres, geographies, and traditions work together in front of live and streaming audiences.
 
-Each location operates as a self-contained business generating its own revenue and serving its local creative community.
+Each location generates revenue while serving its local creative community.
 
 ## The Problem It Solves
 
