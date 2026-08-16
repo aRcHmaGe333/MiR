@@ -621,7 +621,7 @@ These technical architectures provide starting points for implementing each proj
 - Cost analysis
 - Team skill assessment
 
-Each project should maintain technical independence while following common best practices for security, scalability, and maintainability.
+All projects should follow common best practices for security, scalability, maintainability, and reliable integration.
 
 ---
 
