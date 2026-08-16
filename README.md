@@ -50,18 +50,14 @@ This repository collects design and engineering materials for four products that
 
 Each project addresses a distinct problem.
 
-## Optional Integration
+## How the Projects Connect
 
-**Each project stands alone.** Studio Pass works without Dimensional Knob. Dimensional Knob works without Studio Pass. The Scouting Label operates on its own. Fusion Factory runs as a self-contained venue. None require the others to deliver complete value.
-
-**But they can enhance each other.** When these projects coexist, natural synergies emerge:
+When these projects coexist, natural synergies emerge:
 
 - Studio Pass material could be performed at Fusion Factory
 - Dimensional Knob might generate variations of Studio Pass unreleased tracks
 - The Scouting Label could discover talent through Fusion Factory performances
 - Artists might use multiple projects in their creative workflows
-
-**These connections are opportunities, not requirements.** The projects are designed to be compatible and can integrate optionally, but integration is never mandatory.
 
 See [docs/INTEGRATION_OPPORTUNITIES.md](./docs/INTEGRATION_OPPORTUNITIES.md) for detailed exploration of optional synergies. 
 
