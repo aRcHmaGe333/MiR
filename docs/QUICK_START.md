@@ -68,7 +68,7 @@ Concept and design phase. Looking for contributors, partners, and supporters.
 ## What You'll Find Here
 
 ### Component Documentation (`/components`)
-Each project has comprehensive standalone documentation:
+Each project has comprehensive documentation:
 - Problem statement and solution
 - How it works (user perspective)
 - Business model and revenue
@@ -238,9 +238,6 @@ See:
 5. Share with others who might be interested
 
 ## Key Principles
-
-### Independence
-Each project stands alone. Use one, some, or all based on your needs and interests.
 
 ### Authenticity
 All projects prioritize authentic human creativity and genuine connections over manufactured personas or exploitative practices.
