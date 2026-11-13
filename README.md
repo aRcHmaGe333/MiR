@@ -1,8 +1,8 @@
 ﻿# Music Industry Revolution: Four Projects
 
-This repository collects design and engineering materials for four products that explore new pathways for artists, performers, and audiences in music.
+Four music projects: letting fans hear and support unreleased material, making live performances more flexible, finding the right performers for finished songs, and building places where musicians and audiences can create together.
 
-These four components address different pressure points in music: artist-fan connection, live performance variation, artist-material matching, and collaborative venue infrastructure.
+This repository contains their designs and development materials.
 
 ## The Four Projects
 
